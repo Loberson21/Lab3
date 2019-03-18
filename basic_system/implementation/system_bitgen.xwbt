@@ -1,0 +1,7 @@
+INFILE=D:\ra134-2016\Lab3\basic_system\implementation\system.ncd
+OUTFILE=D:\ra134-2016\Lab3\basic_system\implementation\system.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg676
+WORKINGDIR=D:\ra134-2016\Lab3\basic_system\implementation
+LICENSE=ISE
+USER_INFO=209858334_178080923_210593072_769
