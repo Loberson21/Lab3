@@ -1,0 +1,8 @@
+-batch 
+-create my_peripheral 
+-ver 1.00.a 
+-dir "D:\ra134-2016\Lab3\basic_system" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 

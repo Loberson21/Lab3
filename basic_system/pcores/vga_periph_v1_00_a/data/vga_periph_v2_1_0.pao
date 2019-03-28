@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          D:/ra134-2016/Lab3/basic_system/pcores/vga_periph_v1_00_a/data/vga_periph_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Mon Mar 25 09:20:44 2019 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib vga_periph_v1_00_a user_logic vhdl
+lib vga_periph_v1_00_a vga_periph vhdl
